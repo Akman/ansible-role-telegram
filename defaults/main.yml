@@ -1,0 +1,7 @@
+---
+# defaults/main.yml
+
+telegram_token: 'botXXXXXXXXX:YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY'
+telegram_chat_id: 'ZZZZZZZZZ'
+telegram_enabled: 'no'
+telegram_message: ''
