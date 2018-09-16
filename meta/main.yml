@@ -4,6 +4,7 @@
 dependencies: []
 
 galaxy_info:
+  role_name: telegram
   author: Akman
   description: Notify by Telegram on Linux
   license: "license (MIT)"
